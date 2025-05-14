@@ -43,10 +43,6 @@ O objetivo deste repositório é consolidar o aprendizado prático em desenvolvi
 
 ---
 
-## 👨‍🏫 Professor
-
-- Nome do professor (adicione aqui, se quiser)
-
 ## 👨‍🎓 Autor
 
 - **Igor Ton**
