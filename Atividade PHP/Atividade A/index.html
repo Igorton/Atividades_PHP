@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversão de Temperatura</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <form action="resultado.php" method="post">
+            <label for="graus">Farenheit: </label>
+            <input type="number" name="graus" id="graus" required>
+            <input type="submit" value="Calcular" id="envio" disabled>
+        </form>
+    </div>
+</body>
+</html>
